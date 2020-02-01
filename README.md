@@ -5,3 +5,4 @@ If any text to put in day planner you have to click to save button if don't afte
 Save button save information in localStore.
 By time after end the row color change.
 Display has currently tim and date.
+ https://ramalimanov.github.io/dayplanner/
